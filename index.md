@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Coming soon.
 
-You can use the [editor on GitHub](https://github.com/nsmsn/printers-tray/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Typekit doesn’t have a built-in feature where users can create and share their own lists, and currently the only way to save fonts within Typekit itself is by using the ‘favorites’ feature or adding fonts to a kit. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are some wonderfully crafted type choices that have been available on Typekit for years, and new fonts are always being added. As the service approaches its ten-year anniversary, I wanted to highlight some overlooked choices from smaller foundries available in Typekit’s Portfolio plan as well as a few premium fonts available from Typekit Marketplace. 
 
-### Markdown
+While a few of these choices might appear in some official Typekit lists, none of the fonts in my curated lists will be featured in the [Favorite Fonts List](https://typekit.com/lists/favorite-fonts).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nsmsn/printers-tray/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Typekit is copyright © 2018 Adobe Systems Incorporated. All rights reserved.
